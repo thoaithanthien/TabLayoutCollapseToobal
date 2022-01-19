@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TabLayoutCollapseToobal</string>
+
+    <string name="home_fragment">Home fragment</string>
+    <string name="favorite_fragment">Favorite fragment</string>
+    <string name="my_page_fragment">My Page fragment</string>
+</resources>
